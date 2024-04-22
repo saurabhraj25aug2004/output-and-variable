@@ -1,0 +1,11 @@
+int
+
+4 bytes
+
+bool
+
+1 byte
+
+float
+
+4 bytes
